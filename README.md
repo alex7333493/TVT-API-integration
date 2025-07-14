@@ -1,3 +1,80 @@
+Welcome!
+This is a working Python script for integrating TVT Digital hardware:
+
+📷 License Plate Recognition Cameras
+🎥 Face Detection and Recognition Cameras
+🗝 Access Control Terminals
+
+🚀 Features
+✅ 24/7 Access Control
+
+Multi-threaded work with multiple devices
+
+TCP connection — real-time event processing
+
+Auto-subscription to camera events
+
+Local SQLite database
+
+✅ Time & Attendance Tracking
+
+History of recent events (Entry / Exit)
+
+“Who is at work now” report
+
+Export reports to Excel — ready for 1C upload
+
+Flexible shift schedules (5/2, 6/1, etc.)
+
+✅ Paid Parking System
+
+Entry & exit cameras — automatic barrier control
+
+Whitelist for free passes
+
+Cost calculation: first 5 minutes free, then fixed fee
+
+Photo capture at entry and exit
+
+Automatic and manual receipt printing
+
+Export visit history to Excel
+
+✅ Easy Setup & Operation
+
+Runs as a single .exe on Windows (or Python script on Linux)
+
+Works offline in local network — no internet required
+
+Automatic database and photo saving
+
+User-friendly Tkinter interface
+
+📂 Repository Structure
+⚙️ Integration
+1C integration — export reports to Excel
+
+Extendable for third-party APIs
+
+Flexible configuration via config files
+
+📣 Perfect For
+🏢 Offices & Business Centers
+🏭 Warehouses & Industrial Sites
+🏘️ Residential Complexes & Gated Communities
+🚧 Private Parking Lots with Automation
+
+📜 License
+MIT License — free to use, modify, and extend the project.
+
+📬 Contact
+If you want to integrate TVT Digital cameras, develop a custom solution, or adapt this system for your needs — get in touch:
+
+Alexander
+📧 Email: 7333493a@gmail.com
+📱 Telegram: @cctv_service
+
+
 # 📡 TVT API Integration — Python Access Control & Parking System
 
 Добро пожаловать!  
