@@ -64,10 +64,15 @@ MSG start TCP server successfully on 192.168.226.222:18000
 ('192.168.226.100', 54032) connected
 
 [TCP] ('192.168.226.100', 54032)
+
 MAC: AA:BB:CC:DD:EE:FF
+
 Time: 1720688894000
+
 SHA256: 1f6d2a7e0d45c0b...
+
 Base64 length: 234567
+
 [✔] Saved: images/image_0_AA_BB_CC_DD_EE_FF_20250709_132812.jpg
 
 ('192.168.226.100', 54032) disconnected
